@@ -1,2 +1,1 @@
-# ProductionSystem
-Task for course CS253 Intellectual Systems. 
+Production system with forward and backward reasoning.
